@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Spark-Eighteen-Assesment/static/css/main.3870d5d5.css",
+    "main.js": "/Spark-Eighteen-Assesment/static/js/main.6821684a.js",
+    "index.html": "/Spark-Eighteen-Assesment/index.html",
+    "main.3870d5d5.css.map": "/Spark-Eighteen-Assesment/static/css/main.3870d5d5.css.map",
+    "main.6821684a.js.map": "/Spark-Eighteen-Assesment/static/js/main.6821684a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3870d5d5.css",
+    "static/js/main.6821684a.js"
+  ]
+}

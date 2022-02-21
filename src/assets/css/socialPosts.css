@@ -1,0 +1,13 @@
+.header{
+    background-color: black;
+    padding: 25px;
+    color: white;
+    font-size: 20px;
+  }
+  .header select{
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+    border-radius:5px;
+    margin-left: 10px;
+  }
